@@ -16,9 +16,9 @@ Senior Director of Delos Labs
 
 Algorithm development in smart home system for health and wellness.
 
-Data visulization and user communication of indoor air quality
+Index and Data visulization and user communication of indoor air quality
 
-Testing platform development 
+Develop a full capacity, flexible testing flatform for fast prototype
 
 
 
